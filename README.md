@@ -1,1 +1,1 @@
-## This project was UROP carried out Summer 2023
+## This project was UROP carried out in Summer 2023
